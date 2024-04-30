@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/douglazz_rocha/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcio-douglas-rocha-5414b41ba/)
+[![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marciodouglasr33@gmail.com)
 
 ![Doffy GitHub stats](https://github-readme-stats.vercel.app/api?username=doffyrocha&show_icons=true&theme=dark&count_private=true)
 ## Linguagens  
