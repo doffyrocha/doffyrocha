@@ -14,7 +14,7 @@
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" / 
     <nav>
     <section id="sobre">
-       <h2>Sobre mim</h2>
+       <h2>Sobre mim🥇</h2>
         <p>Eu sou um estudante de Matemática Aplicada e Computacional apaixonado por resolver problemas e criar soluções utilizando programação.</p>
         <p>Meus principais interesses estão na interseção entre matemática e computação, e estou sempre buscando maneiras de aplicar meus conhecimentos em C++ e Python para resolver desafios do mundo real. além de estar em constante aprimoramento aprendendo outras Linguagens e jeitos de inovar</p>
     </section>
