@@ -12,5 +12,49 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" / 
 <div style="display: inline_block">
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" / 
-  
-</div><br/>
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre mim</a></li>
+            <li><a href="#habilidades">Habilidades</a></li>
+            <li><a href="#projetos">Projetos</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+    <section id="sobre">
+       <h2>Sobre mim</h2>
+        <p>Eu sou um estudante de Matemática Aplicada e Computacional apaixonado por resolver problemas e criar soluções utilizando programação.</p>
+        <p>Meus principais interesses estão na interseção entre matemática e computação, e estou sempre buscando maneiras de aplicar meus conhecimentos em C++ e Python para resolver desafios do mundo real. além de buscar sempre me aprimorar aprendendo outras Linguagens</p>
+    </section>
+    <section id="habilidades">
+        <h2>Habilidades</h2>
+        <ul>
+            <li>[Habilidade 1]</li>
+            <li>[Habilidade 2]</li>
+            <li>[Habilidade 3]</li>
+            <li>[Habilidade 4]</li>
+            <li>[Habilidade 5]</li>
+        </ul>
+    </section>
+    <section id="projetos">
+        <h2>Projetos</h2>
+        <p>Aqui estão alguns dos meus projetos mais recentes:</p>
+        <ul>
+            <li><a href="#">[Nome do Projeto 1]</a></li>
+            <li><a href="#">[Nome do Projeto 2]</a></li>
+            <li><a href="#">[Nome do Projeto 3]</a></li>
+        </ul>
+    </section>
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Você pode entrar em contato comigo através de:</p>
+        <ul>
+            <li>Email: [seuemail@example.com]</li>
+            <li>LinkedIn: [Seu perfil do LinkedIn]</li>
+            <li>GitHub: <a href="https://github.com/seuusuario">seuusuario</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>© 2024 [Seu Nome]</p>
+    </footer>
+</body>
+</html>
