@@ -37,7 +37,7 @@
         <h2>Projetos⚙️</h2>
         <p>Aqui estão alguns dos meus projetos mais recentes:</p>
         <ul>
-           [ <li><a href="https://github.com/doffyrocha/Descida.git">Descida</a></li>
+            <li><a href="https://github.com/doffyrocha/Descida.git">Descida</a></li>
             <li><a href="https://github.com/doffyrocha/Banco-de-Funcionarios.git">Dados de Funcinários</a></li>
         </ul>
     <footer>
