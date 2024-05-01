@@ -23,7 +23,7 @@
     <section id="sobre">
        <h2>Sobre mim</h2>
         <p>Eu sou um estudante de Matemática Aplicada e Computacional apaixonado por resolver problemas e criar soluções utilizando programação.</p>
-        <p>Meus principais interesses estão na interseção entre matemática e computação, e estou sempre buscando maneiras de aplicar meus conhecimentos em C++ e Python para resolver desafios do mundo real. além de buscar sempre me aprimorar aprendendo outras Linguagens</p>
+        <p>Meus principais interesses estão na interseção entre matemática e computação, e estou sempre buscando maneiras de aplicar meus conhecimentos em C++ e Python para resolver desafios do mundo real. além de estar em constante aprimoramento aprendendo outras Linguagens e jeitos de inovar</p>
     </section>
     <section id="habilidades">
         <h2>Habilidades</h2>
