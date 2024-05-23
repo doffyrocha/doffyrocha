@@ -5,8 +5,6 @@
   <a href = "mailto:marciodouglasr33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
-<p align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="right"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=doffyrocha&layout=compact&langs_count=10&theme=radical"
