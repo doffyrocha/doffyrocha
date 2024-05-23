@@ -5,6 +5,14 @@
   <a href = "mailto:marciodouglasr33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
+<p align="right">
+  <a href="https://github.com/doffyrocha/github-readme-stats">
+    <img
+      align="right"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=doffyrocha&layout=compact&langs_count=10&theme=radical"
+    />
+  </a>
+ </p>
 
 ![Doffy GitHub stats](https://github-readme-stats.vercel.app/api?username=doffyrocha&show_icons=true&theme=radical&count_private=true)
 ## Linguagens  
