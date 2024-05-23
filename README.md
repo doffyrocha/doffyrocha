@@ -7,7 +7,7 @@
 </div>
    <img
       align="right"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=doffyrocha&layout=compact&langs_count=10&theme=radical"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=doffyrocha&layout=compact&langs_count=10&theme=radical&pt"
     />
   </a>
  </p>
