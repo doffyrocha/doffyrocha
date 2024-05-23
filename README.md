@@ -24,15 +24,14 @@
         <h2>Habilidades💪🏼</h2>
         <ul>
             <li>Programação em C++</li>
-            <li>Programação em Python</li>
+            <li>Backend Python</li>
             <li>Algoritmos e estruturas de dados</li>
            </ul>
     </section>
          <h2>Habilidades em desnvolvimento🦾</h2> 
          <ul>
              <li>Power BI</li>
-             <li>SQL</li>
-             <li>Backend Python</li>
+             <li>Desenvolvimento Java com IA</li>
            </ul>
     </section>
     <section id="projetos">
