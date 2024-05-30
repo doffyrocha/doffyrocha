@@ -31,8 +31,8 @@
     <section id="habilidades">
         <h2>Habilidades💪🏼</h2>
         <ul>
-            <li>Programação em C++</li>
-            <li>Backend Python</li>
+            <li> C++</li>
+            <li> Python</li>
             <li>Algoritmos e estruturas de dados</li>
            </ul>
     </section>
