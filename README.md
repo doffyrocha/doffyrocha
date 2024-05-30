@@ -38,15 +38,13 @@
     </section>
          <h2>Habilidades em desnvolvimento🦾</h2> 
          <ul>
-             <li>Power BI</li>
-             <li>Desenvolvimento Java com IA</li>
+             <li> Java</li>
            </ul>
     </section>
     <section id="projetos">
         <h2>Projetos⚙️</h2>
-        <p>Aqui estão alguns dos meus projetos mais recentes:</p>
+        <p>Aqui estão alguns dos meus projetos:</p>
         <ul>
-            <li><a href="https://github.com/doffyrocha/Descida.git">Descida</a></li>
             <li><a href="https://github.com/doffyrocha/Banco-de-Funcionarios.git">Dados de Funcinários</a></li>
             <li><a href="https://github.com/doffyrocha/Sistema-Bancario.git">Sistema Bancário</a></li>
         </ul>
