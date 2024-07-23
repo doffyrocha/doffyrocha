@@ -45,6 +45,7 @@
         <h2>Projetos⚙️</h2>
         <p>Aqui estão alguns dos meus projetos:</p>
         <ul>
+          <li><a href="https://github.com/doffyrocha/cpi_data_analysis.git">Análise de Dados CPI</a></li>
             <li><a href="https://github.com/doffyrocha/Banco-de-Funcionarios.git">Dados de Funcinários</a></li>
             <li><a href="https://github.com/doffyrocha/Sistema-Bancario.git">Sistema Bancário</a></li>
         </ul>
